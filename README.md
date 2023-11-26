@@ -1,3 +1,9 @@
+
+<p align = "center" draggable=”false” ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" 
+     width="200px"
+     height="auto"/>
+</p>
+
 # Edmonton-City-Food-Drive-Optimization
 
 **Overview**
@@ -6,22 +12,22 @@ This project aims to revolutionize food donation management in Edmonton by lever
 
 **Phases**
 
--Initiation and Planning
+-  Initiation and Planning
 
--Data Collection and Preparation
+-  Data Collection and Preparation
 
--Model Development and Training
+-  Model Development and Training
 
--System Development and Testing
+-  System Development and Testing
 
--Deployment and Integration
+-  Deployment and Integration
 
--Evaluation and Fine-tuning
+-  Evaluation and Fine-tuning
 
--Completion and Handover
+-  Completion and Handover
 
 **Stakeholders**
 
--Food bank
--The Church of Jesus Christ of Latter-day Saints
--City of Edmonton
+-  Food bank
+-  The Church of Jesus Christ of Latter-day Saints
+-  City of Edmonton
