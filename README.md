@@ -31,3 +31,12 @@ This project aims to revolutionize food donation management in Edmonton by lever
 -  Food bank
 -  The Church of Jesus Christ of Latter-day Saints
 -  City of Edmonton
+
+
+# Interactive-Food-Drive-Assistant
+
+Link to app is [here](https://interactive-food-drive-assistant-vbauvaudvatvf3pyzuhv5q.streamlit.app/)
+
+Requirements:
+*  gradientai==1.2.0
+*  streamlit==1.29.0
